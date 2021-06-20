@@ -2,7 +2,7 @@
 - 👀 I’m interested in tons of stuff.
 - 🌱 I’m currently learning Japanese.
 - 💞️ I’m looking to collaborate on translations.
-- 📫 How to reach me ...
+- 📫 Discord @Gunvarrel#7956
 
 <!---
 Gunvarrel39/Gunvarrel39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
